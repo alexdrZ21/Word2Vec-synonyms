@@ -1,6 +1,7 @@
 #Search for a synonym by word using Word2Vec
 
 Программа обучена на корпусе русскоязычных твитов RuTweetCorp(https://study.mokoron.com/)
+
 Основная задача: Используя модель word2vec по заданному слову получить его ближайшие синонимы и квазисинонимы.
 
 Этапы работы:
